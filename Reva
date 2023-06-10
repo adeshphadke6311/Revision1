@@ -1,0 +1,3 @@
+def instance_method():
+  print("It is the method which refers to the object and it is mostly denoted by self")
+instance_method()
