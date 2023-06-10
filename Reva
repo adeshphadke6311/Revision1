@@ -5,3 +5,5 @@ def greet():
   print("Good Morning")
   print("It is a Revision session")
 greet()
+def update():
+  print("Okay")
