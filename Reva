@@ -8,3 +8,7 @@ greet()
 def update():
   print("Okay")
 update()
+# from another login, I have made some changes
+def close():
+  print("Thank you very much")
+close()
