@@ -8,3 +8,4 @@ greet()
 def update():
   print("Okay")
 update()
+print("Okay")
